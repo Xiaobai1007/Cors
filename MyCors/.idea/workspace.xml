@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyCors:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ffa9ff7-6538-4ec1-bc9c-e325d41ec8e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/annot/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/annot/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/annot/bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/ioc/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/ioc/FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/ioc/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/web/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/web/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/com/nf147/web/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/java/com/xiaobai/controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/java/com/xiaobai/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/java/com/xiaobai/util/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/webapp/WEB-INF/jsp/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Article_SSM/src/main/webapp/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/web/WEB-INF/decorators.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/web/decorators/book_sitemesh.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/Test/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/java/com/nf147/bookstore_ssm/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore_SSM/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/java/com/xiaobai/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/java/com/xiaobai/controller/EducationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/java/com/xiaobai/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/java/com/xiaobai/controller/EmployeeController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/java/com/xiaobai/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/java/com/xiaobai/vo/FormBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/messages/xxxx_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/messages/xxxx_jp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/messages/xxxx_zh.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/theme/boy.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/theme/default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/resources/theme/girl.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/WEB-INF/jsp/book_home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/WEB-INF/jsp/book_input.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/WEB-INF/jsp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/WEB-INF/jsp/home2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/WEB-INF/jsp/input.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/css/dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/css/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/img/whiteGou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_SSM_MVC/src/main/webapp/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum/src/com/Xiaobai/MyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Equals/src/com/MyEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git/src/com/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate_SSM/src/main/java/com/nf147/sss/HibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate_SSM/src/main/java/com/nf147/sss/entity/Persons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate_SSM/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven-commen/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/java/com/xiaobai/bookstore_ssm/web/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/resources/spring-root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/webapp/WEB-INF/views/book_detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven_Demo/src/main/webapp/WEB-INF/views/book_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/dao/PhoneDAOMySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/dao/SQLiteJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/main/GsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/main/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/servlet/PhoneListMySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/src/com/vo/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/WEB-INF/lib/fastjson-1.2.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/web/phone/phone_home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Generator/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Generator/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Generator/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/java/com/xiaobai/mybatis/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/java/com/xiaobai/mybatis/dao/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/java/com/xiaobai/mybatis/entiy/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/resources/conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_Maven/src/main/resources/mapper/studentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/java/com/xiaobai/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_PageHelper/src/main/webapp/WEB-INF/jsp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/dao/InvoiceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/BillingInfoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/CustomerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/InvoiceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/java/com/xiaobai/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/Invoice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/PersonMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatis_SSM/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xiaobai/filter/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xiaobai/server/SuiBianServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySession/src/com/Session/AchieveSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySession/src/com/Session/MySession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySession/src/com/Session/SessionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/Session/AchieveSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/Session/MySession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/Session/SessionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/com/servlet/aaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/src/com/servlet/bbb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySessions/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyThread/src/com/Thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebSocket/src/com/WSServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parent-Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/.idea/arquillianContainers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/controller/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/controller/AtlasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/controller/BuyCarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/controller/CollectionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/poi/SqlPOIInUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/java/com/xiaobai/poi/SqlPOIOutUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/test/java/test/AddressMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/test/java/test/CustomerMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_xiaomiShopping_SSM/src/test/java/test/EmployeeMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/java/com/xiaobai/myInterface/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/java/com/xiaobai/validator/CommonValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM/src/main/webapp/jsp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/controller/FormTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/controller/PetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/cors/CorsAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/poi/SqlPOIInUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/java/com/xiaobai/poi/SqlPOIOutUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/MUI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/WEB-INF/jsp/pet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/WEB-INF/jsp/updateForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/WEB-INF/jsp/updatePetForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/css/mui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/fonts/mui-icons-extra.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/fonts/mui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/html/canvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/html/canvas_img.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/html/fileInput.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/html/file_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/html/xinagqi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Petstore_SSM_MVC/src/main/webapp/js/mui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/PhoneDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/PhoneInterfaceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/dao/WebUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/servlet/PhoneServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/servlet/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/src/com/text/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/WEB-INF/lib/sitemesh-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/css/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/assets/js/jquery1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/phone/phone_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneWeb/web/sitemesh/phone_decorate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/Session/AchieveSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/Session/MySession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/Session/SessionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/service/AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/service/BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/service/BookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/src/com/vo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/WEB-INF/decorators.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/decorators/book_sitemesh.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/web/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingletonMode/src/com/Company/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingletonMode/src/com/Company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringandStringBuffer/src/com/Xiaobai/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/src/com/xiaobai/dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/src/com/conn/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/web/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../echarts/web/js/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entity/src/com/xiaobai/entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git_StaticWeb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_module/src/com/xiaobai/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_module/src/com/xiaobai/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_module/src/com/xiaobai/Servlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../小米商城/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../小米商城/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../小米商城/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../小米商城/小米商城.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/src/com/age/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Product/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Product/web/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-728239548">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="928" />
+          <entry key="xml" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="928" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="81" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xiaobai/server/SuiBianServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiaobai/filter/MyFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/xiaobai/server/SuiBianServers.java" />
+        <option value="$PROJECT_DIR$/src/com/xiaobai/server/SuiBianServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xiaobai/filter/CorsFilter.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/xiaobai/filter/CorsAdvice.java" />
+        <option value="$PROJECT_DIR$/src/com/xiaobai/filter/MyFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaobai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaobai" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaobai" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCors" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/apache-tomcat-8.5.32/lib/servlet-api.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.48439306" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaIdea\MyCors\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WhiteCat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="MyCors:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MyCors" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62082" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="62083" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyCors:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ffa9ff7-6538-4ec1-bc9c-e325d41ec8e6" name="Default Changelist" comment="" />
+      <created>1543280694302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543280694302</updated>
+      <workItem from="1543280706352" duration="9644000" />
+      <workItem from="1543366888104" duration="202000" />
+      <workItem from="1543367343639" duration="703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10549000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8885246" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" sideWeight="0.11147541" side_tool="true" visible="true" weight="0.25718608" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.3672131" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info anchor="bottom" id="JRebel Console" order="9" sideWeight="0.50075644" side_tool="true" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49924356" weight="0.2852459" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/xiaobai/server/SuiBianServers.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xiaobai/server/Servlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xiaobai/filter/CorsFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xiaobai/filter/CorsAdvice.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiaobai/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiaobai/server/SuiBianServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MyCors:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48439306" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyCors</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48439306" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48439306" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
